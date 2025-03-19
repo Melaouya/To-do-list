@@ -5,4 +5,3 @@ A simple and intuitive to-do list application that allows users to add, mark as 
 - Add new tasks to the list.
 - Mark tasks as complete.
 - Remove tasks from the list.
-- To set up the project locally:
